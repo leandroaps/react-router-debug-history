@@ -1,7 +1,7 @@
 # react-router-debug-history
-Import as <DebugHistory /> on the Component that are you trying to debug.
+Import as ```<DebugHistory />``` on the Component that are you trying to debug.
 
-```javascript
+```
 import { useEffect } from 'react';
 import { withRouter } from 'react-router-dom';
 
